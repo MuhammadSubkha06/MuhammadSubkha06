@@ -117,5 +117,3 @@ Saya adalah siswa **Rekayasa Perangkat Lunak (RPL) & Pengembang Sistem** yang be
   <sub>⚡ Dirancang dengan fokus pada dampak nyata, efisiensi operasional, dan arsitektur perangkat lunak modern.</sub>
 </p>
 
-
-ccoba tambahin kesini
