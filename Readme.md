@@ -49,21 +49,8 @@ real-world applications and system solutions.
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-
-
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSubkha06&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSubkha06&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## Currently Building
 
