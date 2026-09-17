@@ -49,35 +49,7 @@ real-world applications and system solutions.
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
----
 
-## Featured Projects
-
-### E-Part Monitoring
-
-Production material monitoring system designed to track
-material movement, exposure time, baking, scrap, and
-production status.
-
-**Tech:** Next.js • React • Node.js • Express • SQL Server
-
----
-
-### Attendance System
-
-Internship attendance management system with scanner-based
-attendance and automated attendance processing.
-
-**Tech:** JavaScript • Node.js • SQLite
-
----
-
-### Scanner System
-
-Barcode / QR scanning system designed for operational
-workflows and material identification.
-
-**Tech:** React Native • Android • Node.js
 
 ---
 
