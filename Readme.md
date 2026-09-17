@@ -102,28 +102,6 @@ Saya adalah siswa **Rekayasa Perangkat Lunak (RPL) & Pengembang Sistem** yang be
 
 ---
 
-### 📈 Statistik & Produktivitas GitHub
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSubkha06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58A6FF&icon_color=238636&text_color=c9d1d9&bg_color=0d1117&locale=id" width="100%" alt="Statistik GitHub Muhammad Subkha" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSubkha06&theme=tokyonight&hide_border=true&stroke=58A6FF&background=0D1117&ring=238636&fire=F85149&currStreakNum=ffffff" width="100%" alt="Streak GitHub Muhammad Subkha" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSubkha06&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&locale=id" width="70%" alt="Bahasa Pemrograman Terbanyak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📬 Hubungi Saya & Mari Berkolaborasi
 
 <p align="center">
